@@ -1,6 +1,6 @@
 # E-Commerce App 🛒 | Java Spring Boot & Angular  
 
-This is a **personal E-Commerce project** built using **Java Spring Boot** for the backend and **AngularJS** for the frontend. It features **JWT authentication**, efficient data management with **Spring Data JPA & PostgreSQL**, and essential functionalities like **search, pagination, and error handling**.  
+This is an **E-Commerce Application** built using **Java Spring Boot** for the backend and **AngularJS** for the frontend. It features **JWT authentication**, efficient data management with **Spring Data JPA & PostgreSQL**, and essential functionalities like **search, pagination, and error handling**.  
 
 ## 🔹 Features:  
 - **JWT Authentication & Role-Based Access** (Spring Security)  
